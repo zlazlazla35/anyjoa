@@ -64,7 +64,7 @@ button {padding: 0; margin: 0; background: none; border: none;}
 .aineMorePopup {width: 100%; max-width: 750px; position: relative; margin: 0 20px;}
 .aineMorePopup .aineMoreInner {width: 100%; position: relative; box-sizing: border-box; padding: 61px 10px 10px;}
 .aineMorePopup .aineMoreInner .aniMoreContent { display: flex; align-items: center;}
-.aineMorePopup .aineMoreInner .close {position: absolute; right: 20px; top: 10px; background: rgba(0, 0, 0, 0.6); border: none;  width: 100px; max-width: 40px; height: 40px; border-radius: 50%; overflow: hidden; display: flex; align-items: center; justify-content: center;}
+.aineMorePopup .aineMoreInner .close {position: absolute; right: 20px; top: 10px; background: rgba(0, 0, 0, 0.6); border: none;  width: 100px; max-width: 40px; height: 40px; border-radius: 50%; overflow: hidden; }
 .aineMorePopup .aineMoreInner .close svg {font-size: 28px; color: #fff;}
 .aineMorePopup .aineMoreInner .ainiInfo_box {width: calc(60% - 20px); margin-right: 20px;}
 .aineMorePopup .aineMoreInner .ainiInfo_box .btnBox {display: flex; align-items: center; margin-bottom: 25px;}
@@ -268,7 +268,7 @@ button {padding: 0; margin: 0; background: none; border: none;}
 
     .aineMorePopup {margin: 0 2.7778vw;}
     .aineMorePopup .aineMoreInner {padding: 8.4722vw 1.3889vw 1.3889vw;}
-    .aineMorePopup .aineMoreInner .close {right: 2.7778vw; top: 1.3889vw; max-width: 5.5556vw;height: 5.5556vw;}
+    .aineMorePopup .aineMoreInner .close {row-gap: 2.7778vw; top: 1.3889vw; max-width: 5.5556vw;height: 5.5556vw;}
     .aineMorePopup .aineMoreInner .close svg {font-size: 3.8889vw;}
 
     .aineMorePopup .aineMoreInner .aniPost {display: none;}

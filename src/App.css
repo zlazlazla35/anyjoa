@@ -255,7 +255,7 @@ button {padding: 0; margin: 0; background: none; border: none;}
     .byTypeWrap .byTypeInner .contentsBox .typeBox {display: block;}
     .byTypeWrap .byTypeInner .contentsBox .typeLise li {font-size: 2.5000vw; padding: 1.3889vw 2.7778vw; border-radius: 1.1111vw; margin-right: 1.6667vw; margin-bottom: 1.6667vw;}
     .byTypeWrap .byTypeInner .contentsBox .typeBox .typeRefresh {font-size: 2.5000vw; margin-left: 0; padding: 1.6667vw 2.2222vw; border-radius: 0.8333vw; margin-top: 1.3889vw;}
-    .byTypeWrap .byTypeInner .contentsBox .seachResult {font-size: 2.2222vw; padding-bottom: 8.3333vw;}
+    .byTypeWrap .byTypeInner .contentsBox .seachResult {font-size: 2.2222vw; padding-bottom: 8.3333vw; line-height: 1.3;}
     .byTypeWrap .byTypeInner .contentsBox .userSelectBox span {font-size: 2.2222vw; margin-top: 0.2778vw; max-width: 15.9722vw;}
     .byTypeWrap .byTypeInner .contentsBox .userSelectBox .userSelect li {font-size: 2.2222vw; padding: 0.8333vw 2.5000vw; border-radius: 3.0556vw; margin-right: 1.3889vw; margin-bottom: 1.3889vw;}
     .byTypeWrap .byTypeInner .contentsBox .userSelectBox .userSelect li button {margin-left: 1.1111vw;}
@@ -290,6 +290,8 @@ button {padding: 0; margin: 0; background: none; border: none;}
     .aineMorePopup .aineMoreInner .ainiInfo_box .play svg {font-size: 3.0556vw;margin-left: 1.3889vw;}
     .aineMorePopup .aineMoreInner .ainiInfo_box .add svg {font-size: 3.0556vw;}
     .aineMorePopup .aineMoreInner .ainiInfo_box .cartBtnBox .textAlarm h4 {font-size: 1.9444vw;}
+
+    .noCart {height: calc(100vh - 37.2222vw); font-size: 3.2222vw;}
 }
 
 

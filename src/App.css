@@ -159,7 +159,7 @@ button {padding: 0; margin: 0; background: none; border: none;}
 /* 모바일 네비 */
 .mo_headerWrap {display: none; width: 100%; height: 13.1111vw;  align-items: center; justify-content: center; background: #0f1217; position: fixed; left: 0; top: 0; z-index: 999;}
 .mo_headerWrap .mo_headerWrap_inner {width: 100%; position: relative; box-sizing: border-box; padding: 0 4.1667vw; display: flex; align-items: center; justify-content: space-between;}
-.mo_headerWrap .mo_headerWrap_inner .mo_logo {font-size: 3.8889vw; color: #fff; display: inline-block;}
+.mo_headerWrap .mo_headerWrap_inner .mo_logo {font-size: 4.8889vw; color: #fff; display: inline-block;}
 .mo_headerWrap .mo_headerWrap_inner .mo_logo a {display: inline-block;}
 .mo_headerWrap .mo_headerWrap_inner .left_menu {width: 100%;  display: flex; align-items: center; justify-content: flex-end;}
 .mo_headerWrap .mo_headerWrap_inner .left_menu .mo_search {display: inline-block;}
@@ -171,7 +171,7 @@ button {padding: 0; margin: 0; background: none; border: none;}
 
 .mo_headerWrap .mo_headerWrap_inner .left_menu .mo_userSrarchBox {display: none; position: relative; width: 100%; max-width: 38.8889vw; height: 8.5556vw;}
 .mo_headerWrap .mo_headerWrap_inner .left_menu.active .mo_userSrarchBox {display: block;}
-.mo_headerWrap .mo_headerWrap_inner .left_menu .mo_userSrarchBox input {width: 100%; height: 100%; border: none; box-sizing: border-box; padding: 0 6.2778vw; background: #070707; border-radius: 0.5556vw; font-size: 3.7778vw; color: #fff; position: absolute; left: 0; top: 0;}
+.mo_headerWrap .mo_headerWrap_inner .left_menu .mo_userSrarchBox input {width: 100%; height: 100%; border: none; box-sizing: border-box; padding: 0 6.2778vw; background: #070707; border-radius: 0.5556vw; font-size: 4.4444vw; color: #fff; position: absolute; left: 0; top: 0;}
 .mo_headerWrap .mo_headerWrap_inner .left_menu .mo_userSrarchBox input:focus {outline:none}
 .mo_headerWrap .mo_headerWrap_inner .left_menu .mo_userSrarchBox .GlasIcon {position: absolute; left: 1.3889vw; top: 50%; transform: translateY(-50%); font-size: 3.5000vw; color: #fff;}
 .mo_headerWrap .mo_headerWrap_inner .left_menu .mo_userSrarchBox .textRemove {display: none; position: absolute; right: 1.3889vw; top: 50%; transform: translateY(-50%);}
@@ -183,11 +183,12 @@ button {padding: 0; margin: 0; background: none; border: none;}
 .mo_search_box .mo_search_box_inner {width: 68%; height: 100%; box-sizing: border-box;background: #161a23;  margin-left: auto;}
 .mo_search_box .mo_search_box_inner .searchTop {width: 100%; border-bottom: 0.1389vw solid #ddd; box-sizing: border-box; padding: 2.7778vw; display: flex; align-items: center;}
 .mo_search_box .mo_search_box_inner .searchTop .closeBtn {display: inline-block;}
-.mo_search_box .mo_search_box_inner .searchTop .closeBtn svg {font-size: 4.4444vw; color: #fff;}
+.mo_search_box .mo_search_box_inner .searchTop .closeBtn svg {font-size: 5.4444vw; color: #fff;}
 .mo_search_box .mo_search_box_inner .navList {width: 100%; box-sizing: border-box; padding: 5.5556vw 2.7778vw;}
 .mo_search_box .mo_search_box_inner .navList ul {width: 100%;}
-.mo_search_box .mo_search_box_inner .navList ul li {width: 100%; margin-bottom: 2.7778vw; }
-.mo_search_box .mo_search_box_inner .navList ul li a {font-size: 2.7778vw; color: #fff;}
+.mo_search_box .mo_search_box_inner .navList ul li {width: 100%; margin-bottom: 8.7778vw; }
+.mo_search_box .mo_search_box_inner .navList ul li:last-child {margin-bottom: 0;}
+.mo_search_box .mo_search_box_inner .navList ul li a {font-size: 3.3333vw; color: #fff;}
 .mo_search_box .mo_search_box_inner .navList ul li:hover a { color: #da619b;}
 
 
@@ -251,15 +252,15 @@ button {padding: 0; margin: 0; background: none; border: none;}
     .byTypeWrap {padding-top: 11.1111vw;}
     .byTypeWrap .byTypeInner {padding: 0 2.7778vw;}
     .byTypeWrap .byTypeInner .titleBox {padding: 5.5556vw 0; }
-    .byTypeWrap .byTypeInner .titleBox h2 {font-size: 4.4444vw;}
+    .byTypeWrap .byTypeInner .titleBox h2 {font-size: 5.4444vw;}
     .byTypeWrap .byTypeInner .contentsBox .typeBox {display: block;}
-    .byTypeWrap .byTypeInner .contentsBox .typeLise li {font-size: 2.5000vw; padding: 1.3889vw 2.7778vw; border-radius: 1.1111vw; margin-right: 1.6667vw; margin-bottom: 1.6667vw;}
+    .byTypeWrap .byTypeInner .contentsBox .typeLise li {font-size: 3.5000vw; padding: 1.3889vw 2.7778vw; border-radius: 1.1111vw; margin-right: 1.6667vw; margin-bottom: 1.6667vw;}
     .byTypeWrap .byTypeInner .contentsBox .typeBox .typeRefresh {font-size: 2.5000vw; margin-left: 0; padding: 1.6667vw 2.2222vw; border-radius: 0.8333vw; margin-top: 1.3889vw;}
-    .byTypeWrap .byTypeInner .contentsBox .seachResult {font-size: 2.2222vw; padding-bottom: 8.3333vw; line-height: 1.3;}
-    .byTypeWrap .byTypeInner .contentsBox .userSelectBox span {font-size: 2.2222vw; margin-top: 0.2778vw; max-width: 15.9722vw;}
-    .byTypeWrap .byTypeInner .contentsBox .userSelectBox .userSelect li {font-size: 2.2222vw; padding: 0.8333vw 2.5000vw; border-radius: 3.0556vw; margin-right: 1.3889vw; margin-bottom: 1.3889vw;}
+    .byTypeWrap .byTypeInner .contentsBox .seachResult {font-size: 3.2222vw; padding-bottom: 8.3333vw; line-height: 1.3;}
+    .byTypeWrap .byTypeInner .contentsBox .userSelectBox span {font-size: 3.0556vw; margin-top: 0.2778vw; max-width: 22.2222vw;}
+    .byTypeWrap .byTypeInner .contentsBox .userSelectBox .userSelect li {font-size: 3.0556vw; padding: 0.8333vw 2.5000vw; border-radius: 3.0556vw; margin-right: 1.3889vw; margin-bottom: 1.3889vw;}
     .byTypeWrap .byTypeInner .contentsBox .userSelectBox .userSelect li button {margin-left: 1.1111vw;}
-    .noResult h2 {font-size: 2.7778vw;}
+    .noResult h2 {font-size: 3.2222vw;}
     .byTypeWrap .byTypeInner .titleBox.search h4 {font-size: 3.0556vw; margin-top: 2.5000vw;}
     .viewedContent .viewSlide .series {font-size: 2.2222vw; margin-top: 0.5556vw;}
 

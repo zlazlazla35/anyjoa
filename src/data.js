@@ -437,7 +437,7 @@ let aniDb = [
         content : '',
         category : ['서스펜스', '학교액션'],
         years : 19,
-        link : "https://www.youtube.com/embed/3_hj6MyWOgA?si=nBsi9ZJcXdLiWOt7",
+        link : "https://youtu.be/JDVykq974a0?si=6Umy6GQtmmTOxlbR",
         plot : `밑바닥 인생을 살던 타케미치. 중학교 시절 사귀었던 인생에서 유일한 연인이었던 히나타가 가장 흉포하고 악질적인 악당 연합 "도쿄 만지회"에게 살해당했다는 것을 알게 된다.
                 사건을 알게 된 다음 날, 역 플랫폼에 있던 타케미치는 누군가에게 떠밀려 선로로 떨어지고 다가오는 열차를 보며 자신의 죽음을 직감한다. 하지만 정신을 차리고 보니 어째서인지 12년 전으로 타임 리프해 있었다.
                 인생의 전성기였던 12년 전 중학교 시절로 타임 리프해서 연인을 구하기 위해, 계속 도망치기만 했던 자신을 바꾸기 위해 인생의 리벤지를 시작한다!`
@@ -1389,7 +1389,7 @@ let aniDb = [
         content : '',
         category : ['가족', '환생', '감동', '일상', '드라마'],
         years : 15,
-        link : "https://youtu.be/EGzqLTm7xnY?si=N-QObmPFv5i-Ywhd",
+        link : "https://youtu.be/LC3s7LFl_Uo?si=k63mTTXVl8i8btAN",
         plot : `10년 전, 아내를 잃은 애처가 니이지마 케이스케는 줄곧 실의 속에 빠져 있었다. 그러나 어느 날, 초등학생 여자애인 시라이시 마리카가 자신이 죽은 그의 아내인 타카에라고 밝히며 찾아왔다. 이로써 초등학생의 모습을 한 아내와의 인생이 다시 움직이기 시작했는데.`
     },
     {
@@ -2185,7 +2185,7 @@ let dayByAni = [
         category : ['가족', '환생', '감동', '일상', '드라마'],
         years : 15,
         dayAni : '금',
-        link : "https://youtu.be/EGzqLTm7xnY?si=N-QObmPFv5i-Ywhd",
+        link : "https://youtu.be/LC3s7LFl_Uo?si=k63mTTXVl8i8btAN",
         plot : `10년 전, 아내를 잃은 애처가 니이지마 케이스케는 줄곧 실의 속에 빠져 있었다. 그러나 어느 날, 초등학생 여자애인 시라이시 마리카가 자신이 죽은 그의 아내인 타카에라고 밝히며 찾아왔다. 이로써 초등학생의 모습을 한 아내와의 인생이 다시 움직이기 시작했는데.`
     },
     {
@@ -2356,7 +2356,7 @@ let dayByAni = [
         category : ['서스펜스', '학교액션'],
         years : 19,
         dayAni : '토',
-        link : "https://www.youtube.com/embed/3_hj6MyWOgA?si=nBsi9ZJcXdLiWOt7",
+        link : "https://youtu.be/JDVykq974a0?si=6Umy6GQtmmTOxlbR",
         plot : `밑바닥 인생을 살던 타케미치. 중학교 시절 사귀었던 인생에서 유일한 연인이었던 히나타가 가장 흉포하고 악질적인 악당 연합 "도쿄 만지회"에게 살해당했다는 것을 알게 된다.
                 사건을 알게 된 다음 날, 역 플랫폼에 있던 타케미치는 누군가에게 떠밀려 선로로 떨어지고 다가오는 열차를 보며 자신의 죽음을 직감한다. 하지만 정신을 차리고 보니 어째서인지 12년 전으로 타임 리프해 있었다.
                 인생의 전성기였던 12년 전 중학교 시절로 타임 리프해서 연인을 구하기 위해, 계속 도망치기만 했던 자신을 바꾸기 위해 인생의 리벤지를 시작한다!`
